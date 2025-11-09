@@ -1,0 +1,14 @@
+{
+  "name": "Message Spoofer",
+  "description": "Client-side message text replacer for Discord with persistence",
+  "authors": [
+    {
+      "name": "You",
+      "id": "0"
+    }
+  ],
+  "main": "index.js",
+  "vendetta": {
+    "icon": "MessageSquareIcon"
+  }
+}
